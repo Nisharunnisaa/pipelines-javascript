@@ -1,5 +1,5 @@
 # Sample NodeJS application for Azure Pipelines docs
-
+[![Build Status](https://dev.azure.com/nisharunnisa123/Sample/_apis/build/status/Nisharunnisaa.pipelines-javascript?branchName=master)](https://dev.azure.com/nisharunnisa123/Sample/_build/latest?definitionId=2?branchName=master)
 For information on how to use this repository, see [JavaScript](https://docs.microsoft.com/azure/devops/pipelines/languages/javascript).
 
 | Example | Build status |
